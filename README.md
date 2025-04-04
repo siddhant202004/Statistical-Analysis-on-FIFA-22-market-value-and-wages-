@@ -1,5 +1,8 @@
 # Statistical-Analysis-on-FIFA-22-market-value-and-wages-
 
+FIFA 22 Player Stats Visualization
+This project contains an interactive file (fifa22stats.ipynb) showcasing visualizations and statistical analysis of the FIFA 22 player dataset. The visualizations include bar charts, scatter plots, and other graphical insights into player attributes such as pace, shooting, passing, dribbling, defense, and physicality. It aims to help users better understand player distributions and comparisons in FIFA 22.
+
 Statistical Analysis
 The dataset was analyzed using various statistical techniques:
 Mean: The average value for wages and market value was calculated to assess overall trends.
